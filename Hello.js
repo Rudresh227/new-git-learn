@@ -1,1 +1,6 @@
 console.log("Hello")
+console.log("Rudresh Git")
+console.log("Hello github")
+console.log("Hello from rudresh")
+console.log("This is good code")
+console.log("Merge to main")
