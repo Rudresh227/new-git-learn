@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 This is the new feature created by Vasanth - New merge
-=======
 This is the new feature created by rudresh
->>>>>>> branch-rud
 This is the new feature created by rudresh
